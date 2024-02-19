@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCore", "WPFCore\WPFCore.csproj", "{D1B2F3F5-46E9-405E-8EF8-314168A5E2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFramework", "WPFFramework\WPFFramework.csproj", "{449D530D-52FF-49BE-94FF-B042674171E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B2F3F5-46E9-405E-8EF8-314168A5E2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B2F3F5-46E9-405E-8EF8-314168A5E2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B2F3F5-46E9-405E-8EF8-314168A5E2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B2F3F5-46E9-405E-8EF8-314168A5E2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449D530D-52FF-49BE-94FF-B042674171E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449D530D-52FF-49BE-94FF-B042674171E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449D530D-52FF-49BE-94FF-B042674171E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449D530D-52FF-49BE-94FF-B042674171E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCB429D-87BF-4907-9F43-27C7B34C10CE}
+	EndGlobalSection
+EndGlobal
